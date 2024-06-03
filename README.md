@@ -1,1 +1,1 @@
-# wesplit
+# WeSplit
